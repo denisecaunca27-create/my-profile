@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+    <h1>My Personal Profile</h1>
+
+    <img src="my_picture.png" alt="My Picture" width="200">
+
+    <h3>About Me</h3>
+
+    <p>Hello! My name is Your Denise Caunca. 
+    I am a student who is learning about 
+    Git and GitHub.</p>
+
+</body>
+</html>
